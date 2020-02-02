@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "346254272388",
+    "firebase_url": "https://test-fire-cb799.firebaseio.com",
+    "project_id": "test-fire-cb799",
+    "storage_bucket": "test-fire-cb799.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346254272388:android:69841e764d92cb7ee6dfd1",
+        "android_client_info": {
+          "package_name": "com.example.world_time"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346254272388-qi9bna4065a0o20f386nb1i6avsgf0he.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrPm3_xzEdw9btKX0ftJHq9BLwcbXg7eQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346254272388-qi9bna4065a0o20f386nb1i6avsgf0he.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
